@@ -1,6 +1,6 @@
-## 💻 Notebook Description
+## 💻 Notebook Description 
 
-### **File:** `Fall_2025_CYBERSEC_520_Class_1_Gaurav_Suryawanshi.ipynb`
+### **File:** `Fall_2025_CYBERSEC_520_Class_1_Gaurav_Suryawanshi.py (Compiled in py instead of ipynb due to the widgets error)`
 
 #### **1. Objective**
 To gain hands-on experience working in Google Colab, understand how to manage notebooks, and learn basic machine learning concepts such as data loading, model training, and evaluation.
